@@ -11,6 +11,6 @@ Learn. Discuss. Network. Develop. Meetups in Sioux Falls are community-organized
 * Talk to your organization to provide a place to host a meetup
 
 
-[open]: https://github.com/sfdevs/meetups/issues/new
+[open]: https://github.com/sfdevs/meetups/issues/new/choose
 [issues]: https://github.com/sfdevs/meetups/issues
 [reactions]: https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments
