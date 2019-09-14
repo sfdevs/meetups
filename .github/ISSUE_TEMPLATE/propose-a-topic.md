@@ -1,7 +1,7 @@
 ---
 name: Propose a topic
 about: Interested in speaking at a meetup?
-title: ''
+title: '[PROPOSAL]: <subject>'
 labels: venue-needed, date-needed, meetup-event-needed
 assignees: harmstyler, Kwen
 

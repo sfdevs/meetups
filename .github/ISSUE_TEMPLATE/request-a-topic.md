@@ -1,7 +1,7 @@
 ---
 name: Request a topic
 about: Request a meetup about a specific topic
-title: ''
+title: '[REQUEST]: <subject>'
 labels: speaker-needed
 assignees: ''
 
